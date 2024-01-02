@@ -9,13 +9,13 @@
   },
   "devDependencies": {
     "@types/node": "20.10.6",
-    "prisma": "5.8.0-dev.42",
+    "prisma": "5.8.0-dev.43",
     "supabase": "1.127.4",
     "ts-node": "10.9.2",
     "typescript": "5.3.3"
   },
   "dependencies": {
-    "@prisma/client": "5.8.0-dev.42"
+    "@prisma/client": "5.8.0-dev.43"
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
