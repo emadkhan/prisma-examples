@@ -7,14 +7,14 @@
   },
   "dependencies": {
     "@hapi/hapi": "21.3.2",
-    "@prisma/client": "5.9.0-dev.42",
+    "@prisma/client": "5.9.0-dev.43",
     "@types/node": "20.10.6"
   },
   "devDependencies": {
     "@types/express": "4.17.21",
     "@types/hapi__hapi": "20.0.13",
     "@types/node": "20.10.6",
-    "prisma": "5.9.0-dev.42",
+    "prisma": "5.9.0-dev.43",
     "ts-node": "10.9.2",
     "typescript": "5.3.3"
   },
